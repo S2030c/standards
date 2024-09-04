@@ -1,7 +1,7 @@
-—  
-title: Bereiche von Standards genauer betrachten  
+---
+title: "Bereiche von Standards genauer betrachten"  
 permalink: /doc/bereiche-von-standards/  
-\---
+---
 
 Standards durchdringen nahezu jeden Aspekt unseres Lebens und sind in den unterschiedlichsten Bereichen zu finden.
 
