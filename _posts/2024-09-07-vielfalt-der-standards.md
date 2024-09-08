@@ -1,4 +1,4 @@
-Standards bilden eine Grundlage und Basis, auf der sich Lebensumstände und Lebenswirklichkeiten entwickeln. Je nachdem wie ein solcher Standard gestaltet ist, und an was sich ein Standard den jemand pflegt orientiert, entstehen sehr verschiedene Arten von Wirklichkeiten und Lebenswelten. Soziale Standards sind sehr unterschiedlich und können eine enorme Vielfalt entwickeln. Dabei ist keiner dieser Standards grundlegend FALSCH, sie sind zuhnächst einfach nur unterschiedlich. 
+Standards bilden eine Grundlage und Basis, auf der sich Lebensumstände und Lebenswirklichkeiten entwickeln. Je nachdem wie ein solcher Standard gestaltet ist, und an was sich ein Standard den jemand pflegt orientiert, entstehen sehr verschiedene Arten von Wirklichkeiten und Lebenswelten. Soziale Standards sind sehr unterschiedlich und können eine enorme Vielfalt entwickeln. Dabei ist keiner dieser Standards grundlegend FALSCH, sie sind zunächst einfach nur unterschiedlich. 
 
 Grundlegend sind soziale Standards zunächst an sozialen Milieus orientiert. 
 
