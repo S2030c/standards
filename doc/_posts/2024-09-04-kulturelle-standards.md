@@ -31,4 +31,4 @@ Es ist wichtig zu betonen, dass kulturelle Standards nicht statisch sind, sonder
 Kulturelle Standards sind ein unverzichtbarer Bestandteil menschlichen Zusammenlebens. Sie geben uns Orientierung, schaffen ein Gefühl von Zugehörigkeit und ermöglichen ein friedliches Miteinander.   
 Kulturelle Standards sind nicht in Stein gemeißelt, sondern ergeben sich vielmehr dynamisch und wandelbar. Eine offene und kritische Auseinandersetzung mit unseren kulturellen Werten ist daher unerlässlich, um eine Gesellschaft zu gestalten, die den Herausforderungen der Zukunft gewachsen ist.  
 
-
+2024-09-04
