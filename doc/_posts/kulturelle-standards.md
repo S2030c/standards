@@ -1,6 +1,5 @@
 ---
 title: Die Orientierung an kulturellen Standards - Ein Fundament für das Zusammenleben  
-permalink: /doc/kulturelle-standards/
 ---
 Kulturelle Standards sind die unsichtbaren Fäden, die das Geflecht unserer Gesellschaften zusammenhalten. Sie sind die gemeinsamen Überzeugungen, Werte und Normen, die unser Denken, Fühlen und Handeln prägen. Diese Standards dienen als Kompass, der uns durch das komplexe Labyrinth des sozialen Zusammenlebens navigiert und uns Orientierung gibt.
 
@@ -31,3 +30,5 @@ Es ist wichtig zu betonen, dass kulturelle Standards nicht statisch sind, sonder
 
 Kulturelle Standards sind ein unverzichtbarer Bestandteil menschlichen Zusammenlebens. Sie geben uns Orientierung, schaffen ein Gefühl von Zugehörigkeit und ermöglichen ein friedliches Miteinander.   
 Kulturelle Standards sind nicht in Stein gemeißelt, sondern ergeben sich vielmehr dynamisch und wandelbar. Eine offene und kritische Auseinandersetzung mit unseren kulturellen Werten ist daher unerlässlich, um eine Gesellschaft zu gestalten, die den Herausforderungen der Zukunft gewachsen ist.  
+
+
