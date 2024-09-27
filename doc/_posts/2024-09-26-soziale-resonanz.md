@@ -1,5 +1,5 @@
 ---
-title: Soziale Resonanz: Die Schwingung der Seelen
+title: Soziale Resonanz – Die Schwingung der Seelen
 ---
 Die soziale Resonanz, ein Konzept, das in den letzten Jahren zunehmend an Bedeutung gewonnen hat, beschreibt die **Fähigkeit von Menschen, sich miteinander auf einer tiefen, emotionalen Ebene zu verbinden**. Es ist ein Phänomen, das uns alle betrifft, ob wir uns dessen bewusst sind oder nicht. Wenn wir von Resonanz sprechen, meinen wir mehr als nur eine oberflächliche Übereinstimmung oder ein gemeinsames Interesse. Es geht um eine **tiefergehende Verbindung**, bei der die Emotionen, Gedanken und Erfahrungen eines Menschen eine entsprechende **Reaktion bei einem anderen** hervorrufen.
 
