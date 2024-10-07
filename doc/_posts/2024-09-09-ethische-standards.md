@@ -1,6 +1,5 @@
 —  
 title: Grundlegende Ethische Standards  
-permalink: /doc/ethische-standards/  
 —
 
 Die Frage nach den "grundlegenden" ethischen Standards ist komplex, da sie von verschiedenen Faktoren abhängt, wie der kulturellen, sozialen und historischen Kontext sowie dem jeweiligen Handlungsfeld. Dennoch gibt es einige **ethische Prinzipien, die in vielen Kulturen und Gesellschaften als grundlegend angesehen** werden.
@@ -38,3 +37,4 @@ Ethische Standards dienen dazu:
 
 Ethische Standards sind ein zentraler Bestandteil unserer Gesellschaft. Sie bieten Orientierung in einem komplexen Umfeld und tragen dazu bei, eine gerechtere und menschlichere Welt zu gestalten. Die Auseinandersetzung mit ethischen Fragen ist eine kontinuierliche Aufgabe, die uns alle betrifft.
 
+2024-09-09
