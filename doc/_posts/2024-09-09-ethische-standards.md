@@ -1,7 +1,6 @@
-—  
+---
 title: Grundlegende Ethische Standards  
-—
-
+---
 Die Frage nach den "grundlegenden" ethischen Standards ist komplex, da sie von verschiedenen Faktoren abhängt, wie der kulturellen, sozialen und historischen Kontext sowie dem jeweiligen Handlungsfeld. Dennoch gibt es einige **ethische Prinzipien, die in vielen Kulturen und Gesellschaften als grundlegend angesehen** werden.
 
 ## Grundlegende ethische Prinzipien
