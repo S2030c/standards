@@ -1,6 +1,5 @@
 --- 
 title: “Der Wert des Menschen, und der Mensch als Selbstzweck”  
-permalink: /doc/der-mensch-als-selbstzweck/  
 ---
 
 Der **Wert des Menschen** ist eine Frage, die Philosophen seit Jahrtausenden beschäftigt. Während sich die Antworten im Laufe der Zeit gewandelt haben, besteht ein grundlegender Konsens darin, dass der Mensch einen **Eigenwert** besitzt, der **über seinen Nutzen für andere hinausgeht**. Immanuel Kant formulierte es prägnant: **Der Mensch soll niemals bloß als Mittel, sondern immer zugleich als Zweck an sich selbst betrachtet werden**.
@@ -23,5 +22,6 @@ Eine solche Anthropologie müsste sich auf die Anerkennung der menschlichen Viel
 
 Die Herausforderung besteht darin, den Wert des Menschen nicht als abstraktes Ideal zu verkünden, sondern ihn in konkrete politische und gesellschaftliche Maßnahmen zu übersetzen. 
 
-Dies erfordert eine breite gesellschaftliche Debatte, in der die verschiedenen Perspektiven aufeinander treffen und kompromissbereite Lösungen gefunden werden. Derzeit (Sommer 2024\) scheint diese Debatte in Deutschland an Fahrt aufgenommen zu haben, es ist wichtig dass diese Debatte nicht wieder im nichts versandet, 
+Dies erfordert eine breite gesellschaftliche Debatte, in der die verschiedenen Perspektiven aufeinander treffen und kompromissbereite Lösungen gefunden werden. Derzeit (Sommer 2024) scheint diese Debatte in Deutschland an Fahrt aufgenommen zu haben, es ist wichtig dass diese Debatte nicht wieder im nichts versandet, 
 
+2024-09-06
